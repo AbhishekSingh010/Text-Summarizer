@@ -6,7 +6,7 @@ logging.basicConfig(level=logging.INFO, format='[%(asctime)s]:%(message)s:')
 
 
 
-project_name="textSummizer"
+project_name="textSummarizer"
 list_of_files =[
     ".github.com/workflows/.gitkeep",
     f"src/{project_name}/__init__.py",
